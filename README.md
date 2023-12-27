@@ -12,5 +12,10 @@ Search module with Jetpack compose
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
     ```
 
-Note: there is no architecture followed here
+<img src=https://github.com/KawtharE/SearchJetpackCompose/assets/19794865/8fd524fc-14e9-4498-843a-ae3cbc1ccb47 width="200" height="400" />
+
+
+
+
+**Note:** there is no architecture followed here
 
